@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @khalilatm99
-- 👀 I’m interested in learning programming
+- 👋 Hi, I’m @khalil
+- 👀 I’m interested in flutter and python
 - 🌱 I’m currently learning coding at university
-- 💞️ I’m looking to collaborate on learning
+- 💞️ I’m looking to collaborate on python and flutter projects
 - 📫 How to reach me khalil.atmane99@gmail.com
 
 <!---
