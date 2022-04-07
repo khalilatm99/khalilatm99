@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @khalil
-- 👀 I’m interested in flutter and python
+- 👋 Hi, I’m @khalil Atmane
+- 👀 I’m interested in flutter, linux and automating boring stuff with python
 - 🌱 I’m currently learning coding at university
-- 💞️ I’m looking to collaborate on python and flutter projects
+- 💞️ I’m looking to collaborate flutter projects
 - 📫 How to reach me khalil.atmane99@gmail.com
 
 <!---
