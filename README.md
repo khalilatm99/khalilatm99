@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khalil Atmane
-- 👀
 - 🌱 I’m currently learning coding at university
-- 💞️ I’m looking to collaborate 
+- v currently enrolled to the odin project
+- to be web dev
 - 📫 How to reach me khalil.atmane99@gmail.com
 
 <!---
